@@ -11,7 +11,7 @@
     }
   ],
   "autoload": {
-    "files": ["src/helpers.php"],
+    "files": ["src/aop/helpers.php"],
     "psr-4": {
       "Tianqi\\Aop\\": "src/aop/"
     }
