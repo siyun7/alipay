@@ -1,4 +1,5 @@
 <?php
+namespace Tianqi\Aop\Request;
 /**
  * ALIPAY API: alipay.user.info.auth request
  *

@@ -1,4 +1,5 @@
 <?php
+namespace Tianqi\Aop\Request;
 /**
  * ALIPAY API: alipay.mobile.public.message.total.send request
  *

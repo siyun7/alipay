@@ -1,4 +1,5 @@
 <?php
+namespace Tianqi\Aop\Request;
 /**
  * ALIPAY API: koubei.quality.test.cloudacpt.checkresult.submit request
  *

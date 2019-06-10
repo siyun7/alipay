@@ -1,4 +1,5 @@
 <?php
+namespace Tianqi\Aop\Request;
 /**
  * ALIPAY API: alipay.msaas.mediarecog.voice.mediaaudio.upload request
  *

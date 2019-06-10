@@ -1,4 +1,5 @@
 <?php
+namespace Tianqi\Aop;
 class LtLogger
 {
 	public $conf = array(

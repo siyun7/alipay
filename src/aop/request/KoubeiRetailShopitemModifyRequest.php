@@ -1,4 +1,4 @@
-<?php
+
 /**
  * ALIPAY API: koubei.retail.shopitem.modify request
  *

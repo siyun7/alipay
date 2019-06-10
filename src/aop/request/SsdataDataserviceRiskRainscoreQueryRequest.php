@@ -1,4 +1,5 @@
 <?php
+namespace Tianqi\Aop\Request;
 /**
  * ALIPAY API: ssdata.dataservice.risk.rainscore.query request
  *
