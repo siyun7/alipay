@@ -1,0 +1,28 @@
+{
+  "name": "l57t7q/alipay",
+  "description": "Alipay SMS SDK for PHP",
+  "keywords": ["alipay", "pay", "sdk"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tianqi",
+      "email": "i@ltq.im"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Tianqi\\Aop\\": "src/aop/"
+    }
+  },
+  "extra": {
+    "component": "package",
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">5.3"
+  }
+}
